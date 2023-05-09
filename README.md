@@ -6,6 +6,6 @@ Prodi : Teknik Informatika <br>
 Dosen : Abdi Pandu Kusuma, S.Kom.,MT <br>
 Matkul : Pemograman Web <br>
 
-![alt text]([https://github.com/muhikhsanm404](https://github.com/muhikhsanm404/kalkulatorque/blob/master/SS.JPG))
+![alt text](https://github.com/muhikhsanm404/kalkulatorque/blob/master/SS.JPG)
 
 
